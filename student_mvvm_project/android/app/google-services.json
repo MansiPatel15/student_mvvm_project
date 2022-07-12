@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838433877833",
+    "project_id": "mvvm-e27de",
+    "storage_bucket": "mvvm-e27de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838433877833:android:efdf933018dccb6aa97498",
+        "android_client_info": {
+          "package_name": "com.dipen.student_mvvm_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838433877833-tdcsjh1nakv4tpn8ef6aak6ve09ons2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTlGIwEDy09CZTn0se6qa7ireBHP6Ayng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838433877833-tdcsjh1nakv4tpn8ef6aak6ve09ons2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
